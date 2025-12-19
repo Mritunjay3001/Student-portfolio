@@ -20,4 +20,5 @@ It is designed as a mini project for college submission.
 2. Open index.html in any web browser
 
 ## Author
-Mritunjay Kumar
+Mritunjay Tripathi
+
