@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: #f4f4f4;
+    color: #333;
+}
+
+/* Header */
+header {
+    background: #2c3e50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Sections */
+section {
+    background: white;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h2 {
+    margin-bottom: 10px;
+    color: #2c3e50;
+}
+
+/* Skills */
+.skill {
+    margin-bottom: 10px;
+}
+
+.bar {
+    height: 10px;
+    background: lightgray;
+    border-radius: 5px;
+}
+
+.html {
+    width: 90%;
+    background: #e67e22;
+}
+
+.css {
+    width: 80%;
+    background: #3498db;
+}
+
+.python {
+    width: 70%;
+    background: #2ecc71;
+}
+
+/* Footer */
+footer {
+    background: #2c3e50;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
